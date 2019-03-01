@@ -11,8 +11,16 @@ function GenerateNewText() {
         [
             "Interdimensional child molesting monkey robots control our thoughts. ",
             "They literally have an alien base and they are making intergalactic deals. ",
-            "BECAUSE THE HUMAN-ANIMAL HYBRID CREATURES KNOW ABOUT IT!",
-            "Pedophilia monkey creatures using DMT for interstellar purposes are harvesting mouse organs.",
+            "BECAUSE THE HUMAN-ANIMAL HYBRID CREATURES KNOW ABOUT IT! ",
+            "The government has weather weapons. I have seen them. ",
+            "Chemicals in the water are turning THE FROGS GAY!",
+            "Demonic high-tech tyranny is destroying the underwater artic oceanic currents.",
+            "Pedophilia monkey creatures using DMT for interstellar purposes are harvesting mouse organs. ",
+            "Top teir occultists are undermining the basic patterns for traditional embryonic soups. ",
+            "BOHEMIAN GROVE IS THE UNDECLARED VISION OF THE CROWLEY CLINTON UNION OF DRACONIAN PARA-PHYSICAL SEX TRANSITIONING! ",
+            "Selective breeding is the sanctioned selection of friendly diversity orchestrated by Hanson. ",
+            "GEORGE SOROS INVITED SONOS SPEAKERS TO CONTROL ANCIENT FOR PSEDUO-INTERDIMENSIONAL DRUM CIRCLES ACROSS THE COSOMOS! ",
+            "Fred Rogers was a mouth piece for the left to inflate electro-chemical psychedelic drugs that infest tyrannical puppet creatures living inside of Serbia. ",
             "Globalists! Pseudoscience! ",
             "Pseudoscience globalists using electro-chemical psychedelic drugs. ",
             "The media is not gonna cover this... ",
@@ -32,7 +40,7 @@ GenerateNewText.prototype.getParagraph = function() {
     let paragraph = "";
     
     // Set the minimum number of words
-    let minimumCharacterLength = 250;
+    let minimumCharacterLength = 500;
     let firstSentence = true;
     
     while (paragraph.length < minimumCharacterLength) {
