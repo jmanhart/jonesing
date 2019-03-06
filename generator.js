@@ -9,6 +9,20 @@ function GenerateNewText() {
     // add property to the object
     this.sentences = 
         [
+            "These are not conspiracies but real world programs are developing a breakaway civilizations thats the key to everything standardized total surveillance control grit the power supplies power control human-animal ",
+            "Hybrids that match farming of humanoid tissue trans-shipments. ", 
+            "Games that cover the multi-layered binary weapon Delivery Systems. ",
+            "That's what we have in that what's that well the thing is 5G behavioral modifications we hit that Trojan Horse delivery system. ",
+            "Cell phone vaccines have been designed to hurt you. ",
+            "Demonic high-tech tyranny is destroying the underwater Artic oceanic currents. ",
+            "They're jacking it like a cell phone tell me what you've always used I heard of it everyone heard about 1947 to 1983. ",
+            "I have family that was in advanced DARPA research projects. ",
+            "Demonic high-tech tyranny is destroying the underwater artic oceanic currents.",
+            "My dad told me about cyborgs at the kitchen table. ",
+            "Digital corporate auctions. ",
+            "1950's diagram of the VR goggles for famous people and you don't believe in any aliens? ",
+            "The elves are biological Androids that grace other systems going on and no one knows. ",
+            "Warfare psychological stuff no one knows the truth cuz it's it's virtual reality once you get to that level so no one knows. ",
             "Interdimensional child molesting monkey robots control our thoughts. ",
             "They literally have an alien base and they are making intergalactic deals. ",
             "BECAUSE THE HUMAN-ANIMAL HYBRID CREATURES KNOW ABOUT IT! ",
@@ -25,7 +39,6 @@ function GenerateNewText() {
             "Pseudoscience globalists using electro-chemical psychedelic drugs. ",
             "The media is not gonna cover this... ",
             "AGAIN! THE MEDIA IS NEVER GONNA! COVER! THIS! "
-
     ];
 }
 
